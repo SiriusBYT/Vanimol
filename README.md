@@ -1,13 +1,9 @@
-### come back later you fuf this isn't finished
-
 # Vanimol
 A Lethal Company QoL Modpack that DOESN'T give a single advantage in skill based situations.
 
-## Why choose this modpack instead of other Vanilla-focused ones?
-Here's one huge problem I have with those. **They always adds something that gives you an advantage**. These modpacks always adds crap like removing the jump delay, faster item switching, which I find very problematic because I'm somewhat of a purist.
-
-This modpacks thus only adds QoL mods or extensively configures other ones so that the game is identical but less of a pain to play. This modpack was extensively tested both in multiplayer lobbies and also solo for about a month now. This is still very early but it's useable.
+## Why choose this modpack instead of other Vanilla/Client-Side Only ones?
+Here's one huge problem I have with those. **They always adds something that gives you an advantage**. These modpacks always adds crap like removing the jump delay, which I find very problematic because I'm somewhat of a purist. The philosophy of this modpack is that none of the added mods should give you an advantage in any situations, even in the smallest ones (for example, I refuse to add mods that makes switching items faster as it gives you an advantage when you want to drop off all your items when you want to evade a Forest Giant).
 
 ## NOTICE
-This modpack ships with HDLethalCompany cranked to the maximum (without affecting render resolution, that's cheating in my eyes), this means that yes, shadows and volumetric lighting are improved, but this will absolutely lag your game. Don't forget to modify the HDLethalCompany settings after installing this modpack.
+This modpack ships with HDLethalCompany cranked to the maximum (without affecting render resolution, because that's cheating in my eyes), this means that yes, shadows and volumetric lighting are improved, but this will lag your game. Don't forget to modify the HDLethalCompany settings after installing this modpack.
 
