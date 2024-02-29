@@ -1,3 +1,5 @@
+<img align="left" width="128" height="128" src="https://raw.githubusercontent.com/SiriusBYT/Vanimol/main/icon.png">
+
 # Vanimol
 A Lethal Company QoL Modpack that DOESN'T give a single advantage in skill based situations.
 
