@@ -1,4 +1,5 @@
-# Return of the fabled Manifest Hooker. Except this time this isn't for Flashcord.
+""" Return of the fabled Manifest Hooker. Except this time this isn't for Flashcord.
+This file is used to automatically regenerate the dependencies section of the manifest.json file. """
 import json; ModList = []
 with open("ModList.txt", "r", encoding="utf8") as ModList_File:
     for line in ModList_File: ModList.append(line.replace("\n",""))
