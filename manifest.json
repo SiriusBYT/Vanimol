@@ -1,6 +1,6 @@
 {
  "name": "Vanimol",
- "version_number": "0.1.0",
+ "version_number": "0.1.1",
  "website_url": "https://github.com/SiriusBYT/Vanimol",
  "description": "A Lethal Company QoL Modpack that DOESN'T give a single advantage in skill based situations. This is as close to modded-vanilla as you can get!",
  "dependencies": [
@@ -18,7 +18,7 @@
   "souper194-HDVanillaPosters-1.0.3",
   "AllToasters-SpectateEnemies-2.3.1",
   "MasterAli2-SaveStealer-0.0.3",
-  "ShaosilGaming-GeneralImprovements-1.1.10",
+  "ShaosilGaming-GeneralImprovements-1.1.11",
   "ASmolBoy-Intro_Company_Speech_Extended_Remix-1.0.1",
   "Rune580-LethalCompany_InputUtils-0.6.3",
   "anormaltwig-LateCompany-1.0.11",

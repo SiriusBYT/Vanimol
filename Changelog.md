@@ -1,3 +1,6 @@
+# Vanimol 0.1.1
+- Updated GeneralImprovements (v1.1.10 -> v1.1.11)
+
 # Vanimol 0.1.0
 - Updated all mods
 - CONFIG: General Improvements

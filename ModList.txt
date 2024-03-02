@@ -12,7 +12,7 @@ CatsArmy-SpaceSunShine-1.2.1
 souper194-HDVanillaPosters-1.0.3
 AllToasters-SpectateEnemies-2.3.1
 MasterAli2-SaveStealer-0.0.3
-ShaosilGaming-GeneralImprovements-1.1.10
+ShaosilGaming-GeneralImprovements-1.1.11
 ASmolBoy-Intro_Company_Speech_Extended_Remix-1.0.1
 Rune580-LethalCompany_InputUtils-0.6.3
 anormaltwig-LateCompany-1.0.11
