@@ -1,8 +1,8 @@
 {
  "name": "Vanimol",
- "version_number": "0.2.0",
+ "version_number": "0.3.0",
  "website_url": "https://github.com/SiriusBYT/Vanimol",
- "description": "A Lethal Company QoL Modpack that DOESN'T give a single advantage in skill based situations. This is as close to modded-vanilla as you can get!",
+ "description": "The Lethal Company QoL Modpack that DOESN'T give a single advantage in skill based situations. This is as close to modded yet vanilla as you can get!",
  "dependencies": [
   "JS03-Control_Company_Detector-3.3.8",
   "TwinDimensionalProductions-CoilHeadStare-1.0.9",
@@ -15,9 +15,7 @@
   "Ryokune-Better_Lobbies-1.1.1",
   "Owen3H-IntroTweaks-1.4.6",
   "CatsArmy-SpaceSunShine-1.2.1",
-  "souper194-HDVanillaPosters-1.0.3",
   "AllToasters-SpectateEnemies-2.3.1",
-  "MasterAli2-SaveStealer-0.0.3",
   "ShaosilGaming-GeneralImprovements-1.1.11",
   "ASmolBoy-Intro_Company_Speech_Extended_Remix-1.0.1",
   "Rune580-LethalCompany_InputUtils-0.6.3",
@@ -44,7 +42,6 @@
   "SkilledOn-NoHornCooldown-1.0.0",
   "claymor_wan-Lethal_Ranking-0.6.5",
   "Piggy-JesterStompShake-1.0.8",
-  "Sligili-HDLethalCompany-1.5.6",
   "FutureSavior-Boombox_Sync_Fix-1.1.2",
   "linkoid-DissonanceLagFix-1.0.0",
   "BlueAmulet-LCBetterClock-1.0.3",
@@ -55,7 +52,8 @@
   "Evaisa-HookGenPatcher-0.0.5",
   "BepInEx-BepInExPack-5.4.2100",
   "kuba6000-LC_Masked_Fix-0.0.2",
-  "EliteMasterEric-Coroner-1.6.0",
-  "Danos-LethalStats-0.9.2"
+  "EliteMasterEric-Coroner-1.6.2",
+  "Danos-LethalStats-0.9.2",
+  "lukeprime-DissonanceVoiceSettings-1.0.1"
  ]
 }
