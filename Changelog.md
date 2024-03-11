@@ -1,3 +1,8 @@
+# Vanimol 0.3.1
+- Updated SmartItemSaving (v1.2.0 -> v1.2.1)
+- Updated SpaceSunshine (v1.2.1 -> v1.3.0 )
+- Updated FriendPatches (v1.0.1 -> v1.0.3)
+
 # Vanimol 0.3.0
 - Added DissonanceVoiceSettings (May remove in a future update, not enough people use this so I can't tell the difference if it would break too much the game's immersion/provide an advantage cause you wouldn't have to deal with your teammate's unmuffled microphones, I hope that the game does enough of a good job to muffle player's voices when far away while providing crystal clear audio when your buddy is next to you.)
 - Updated Coroner (v1.6.0 -> v1.6.2)

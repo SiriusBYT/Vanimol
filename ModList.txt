@@ -3,12 +3,12 @@ TwinDimensionalProductions-CoilHeadStare-1.0.9
 fumiko-CullFactory-0.9.1
 PotatoCoders-MinimumQuotaFinder-1.1.3
 PXC-ShipLootPlus-1.0.8
-SylviBlossom-SmartItemSaving-1.2.0
+SylviBlossom-SmartItemSaving-1.2.1
 Aelstraz-BetterSpectator-1.2.0
 Hardy-LCMaxSoundsFix-1.1.0
 Ryokune-Better_Lobbies-1.1.1
 Owen3H-IntroTweaks-1.4.6
-CatsArmy-SpaceSunShine-1.2.1
+CatsArmy-SpaceSunShine-1.3.0
 AllToasters-SpectateEnemies-2.3.1
 ShaosilGaming-GeneralImprovements-1.1.11
 ASmolBoy-Intro_Company_Speech_Extended_Remix-1.0.1
@@ -21,7 +21,7 @@ taffyko-QuickQuitToMenu-1.0.1
 bctix-FPSCounter-1.4.0
 Pooble-LCBetterSaves-1.7.3
 Clementinise-CustomSounds-2.3.2
-Lauriichan-FriendPatches-1.0.1
+Lauriichan-FriendPatches-1.0.3
 NutNutty-SellTracker-1.2.1
 LeKAKiD-SignalTranslatorAligner-1.1.0
 Drakorle-MoreItems-1.0.2
