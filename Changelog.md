@@ -1,3 +1,9 @@
+# Vanimol 0.3.2
+- Updated CullFactory to v0.9.2
+- Updated IntroTweaks to v1.5.0
+- Updated LethalCompany_InputUtils to v0.7.1
+- Updated Immersive_Visor to v0.3.2
+
 # Vanimol 0.3.1
 - Updated SmartItemSaving (v1.2.0 -> v1.2.1)
 - Updated SpaceSunshine (v1.2.1 -> v1.3.0 )
