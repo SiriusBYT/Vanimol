@@ -1,15 +1,17 @@
-# Vanimol 0.3.2
+# Changelog
+
+## Vanimol 0.3.2
 - Updated CullFactory to v0.9.2
 - Updated IntroTweaks to v1.5.0
 - Updated LethalCompany_InputUtils to v0.7.1
 - Updated Immersive_Visor to v0.3.2
 
-# Vanimol 0.3.1
+## Vanimol 0.3.1
 - Updated SmartItemSaving (v1.2.0 -> v1.2.1)
 - Updated SpaceSunshine (v1.2.1 -> v1.3.0 )
 - Updated FriendPatches (v1.0.1 -> v1.0.3)
 
-# Vanimol 0.3.0
+## Vanimol 0.3.0
 - Added DissonanceVoiceSettings (May remove in a future update, not enough people use this so I can't tell the difference if it would break too much the game's immersion/provide an advantage cause you wouldn't have to deal with your teammate's unmuffled microphones, I hope that the game does enough of a good job to muffle player's voices when far away while providing crystal clear audio when your buddy is next to you.)
 - Updated Coroner (v1.6.0 -> v1.6.2)
 - CONFIG: Control_Company_Detector:
@@ -45,7 +47,7 @@
 - Removed SaveStealer (Doesn't work)
     - Removed LethalAPI_Terminal (SaveStealer Dependency)
 
-# Vanimol 0.2.0
+## Vanimol 0.2.0
 - Added LethalStats Mod (Having stats sounds interesting, slightly concerned about privacy though, may remove in the future if I don't like it.)
     - Added Coroner (Dependency for LethalStats, also honestly it is a good to have.)
 - Added LC Masked Fix (Forced to DC/Reconnect is annoying)
@@ -53,10 +55,10 @@
 - Updated SmartItemSaving (v1.3.0 -> v1.4.0)
 - Removed ReverbOnDeath (Gameplay Advantage)
 
-# Vanimol 0.1.1
+## Vanimol 0.1.1
 - Updated GeneralImprovements (v1.1.10 -> v1.1.11)
 
-# Vanimol 0.1.0
+## Vanimol 0.1.0
 - Updated all mods
 - CONFIG: General Improvements
     - Removed the ability by default to pull the level if you're not the host
@@ -71,9 +73,9 @@
 - Removed LC_API (Ditto)
 - Removed useless config files
 
-# Vanimol 0.0.2
+## Vanimol 0.0.2
 - Updated all mods
 - Removed ChangeName mod (broken)
 
-# Vanimol 0.0.1
+## Vanimol 0.0.1
 - Initial Release
