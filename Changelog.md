@@ -1,5 +1,25 @@
 # Changelog
 
+## Vanimol 0.4.0
+Sorry for the insanely long delay for this update, it would be too long to explain why this update was delayed so much.
+- The recommended version to play Vanimol is now v50 (even though I honestly kinda don't like v50)
+- Added DisplayHiddenRoutesAfterTraveling
+    - Added LethalModDataLib (Dependency)
+    - Added FixPluginTypeSerialization (Dependency)
+    - Added LethalLib (Dependency)
+    - Added LethalLevelLoader (Dependency)
+- Added PauseMenu Lobby Name
+- Added BetterEXP
+- Added KillBind
+- Added AsyncLoggers
+- Added LastRunResult
+- Added UncaughtExceptionCatcher
+- Added BetterPaycheck
+- Added Framerate Slider
+- Added End of day countdown (Gameplay advantage but it looks cool so I don't care)
+- Updated all mods
+
+
 ## Vanimol 0.3.2
 - Updated CullFactory to v0.9.2
 - Updated IntroTweaks to v1.5.0
